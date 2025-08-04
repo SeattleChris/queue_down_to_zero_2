@@ -10,5 +10,5 @@ Determine the minimum number of moves required to reduce the value of `N` to `0`
 
 ## Constraints
 
-1 <= Q <= 10^3
-0 <= N <= 10^6
+* 1 <= Q <= 10^3
+* 0 <= N <= 10^6
